@@ -1,0 +1,135 @@
+
+.TopPosition{
+    width: 100%;
+    height: 100px;
+    background-image: url(file:///C:/Users/Administrator/Downloads/background-realistic-abstract-technology-particle/3409297.jpg);
+    border-radius: 10px;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+}
+.TopPosition h1{
+    margin-left: 550px;
+    color: white;
+}
+.BckgroundUp{
+    margin-top: 110px;
+    background-image: url('file:///C:/Users/Administrator/Downloads/background-realistic-abstract-technology-particle/3409297.jpg');
+    border-radius: 10px;
+}
+.BckgroundUp img{
+    margin-left: 500px;
+    width: 300px;
+    height: 250px;
+    margin-top:10px;
+    border-radius: 10px ;
+}
+.BckgroundUp h1{
+    margin-top: 10px;
+    margin-left: 550px;
+}
+.BckgroundUp p{
+    margin-left: 570px;
+
+}
+.For-Button{
+    background-color: blue;
+    background-image: url(file:///C:/Users/Administrator/Downloads/background-realistic-abstract-technology-particle/3409297.jpg);
+}
+#Resume{
+    margin-top: 10px;
+    margin-left: 180px;
+    width: 100px;
+    height: 40px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+
+}
+#Report{
+    margin-top: 10px;
+    margin-left: 300px;
+    width: 100px;
+    height: 40px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+}
+#Attendance{
+    margin-top: 10px;
+    margin-left: 420px;
+    width: 100px;
+    height: 40px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+}
+.For-DownloadButton{
+    background-image: url(file:///C:/Users/Administrator/Downloads/background-realistic-abstract-technology-particle/3409297.jpg);
+    margin-top: 20px;
+    width: 100%;
+    height: 500px;
+}
+#Resume-Div{
+    margin-top: 20px;
+    float: left;
+    width: 250px;
+    height: 200px;
+    margin-left: 120px;
+    overflow: auto;
+    background-color: #576780;
+    display: none;
+
+}
+#Report-Div{
+    margin-top: 20px;
+    width: 250px;
+    height: 200px;
+    margin-left: 180px;
+    overflow: auto;
+    float: left;
+    background-color: #576780;
+    display: none;
+
+}
+#Attendace-Div{
+    margin-top: 20px;
+    width: 250px;
+    height: 200px;
+    margin-left: 200px;
+    
+    overflow: auto;
+    float: left;
+    background-color: #576780;
+    display: none;
+
+    
+}
+.For-DownloadButton div{
+    background-color: blue;
+}
+#Resume-Button{
+    margin-left: 180px;
+    margin-top: 20px;
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+    border: none;
+}
+#Report-Button{
+    margin-left: 295px;
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+    border: none;
+}
+#Attendace-Button{
+    margin-left: 420px;
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+    border: none;
+}
